@@ -8,7 +8,6 @@ List of Python projects I've completed on Hyperskill so far.
 - [Last Pencil](#last-pencil)
 
 ## Medium
-
 - [Currency Converter](#currency-converter)
 
 ### Hard
