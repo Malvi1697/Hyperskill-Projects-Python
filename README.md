@@ -18,4 +18,5 @@ Easy
 
 ## Simple Chat Bot
 A simple bot that will help you in your learning and make it more fun.
+
 https://github.com/Malvi1697/Hyperskill-SimpleChatBot
