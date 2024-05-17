@@ -13,7 +13,9 @@ List of Python projects I've completed on Hyperskill so far.
 ### Hard
 - [Text-Based Browser](#text-based-browser) 
 
-
+  <br/><br/>
+  
+   
 ## Simple Chat Bot
 A simple bot that will help you in your learning and make it more fun.                        
 https://github.com/Malvi1697/Hyperskill-SimpleChatBot
