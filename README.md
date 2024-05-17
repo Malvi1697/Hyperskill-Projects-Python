@@ -2,8 +2,15 @@
 List of Python projects I've completed on Hyperskill so far.
 
 Projects
-- [Simple Chat Bot](#simple-chat-bot)
 
+Easy
+- [Simple Chat Bot](#simple-chat-bot)
+- [Currency Converter](#currency-converter)
+- [Zookeeper](#zookeeper)
+- [Bill Splitter](#bill-splitter)
+
+
+- [Text-Based Browser (In Progress)](#text-based-browser-in-progress)
 
 
 
