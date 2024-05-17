@@ -1,18 +1,15 @@
 # Hyperskill-Projects-Python
 List of Python projects I've completed on Hyperskill so far.
 
-Easy
+### Easy
 - [Simple Chat Bot](#simple-chat-bot)
 - [Currency Converter](#currency-converter)
 - [Zookeeper](#zookeeper)
 - [Bill Splitter](#bill-splitter)
 - [Last Pencil](#last-pencil)
 
-Hard
-- [Text-Based Browser](##text-based-browser) 
-
-
-
+### Hard
+- [Text-Based Browser](#text-based-browser) 
 
 
 ## Simple Chat Bot
@@ -36,4 +33,5 @@ Learn how to build a simple but engaging game and practice the Python basics.
 https://github.com/Malvi1697/Hyperskill-LastPencil-WIP
 
 ## Text Based Browser
-Learn the basics of HTTP and how to work with it in Python. You'll also gain an understanding of web scraping and how to organize data on a web page. You'll work with such Python libraries as requests, colorama, and beautifulsoup. You will become familiar with Python input and output. Also, study ways to parse HTML.
+Learn the basics of HTTP and how to work with it in Python. You'll also gain an understanding of web scraping and how to organize data on a web page. You'll work with such Python libraries as requests, colorama, and beautifulsoup. You will become familiar with Python input and output. Also, study ways to parse HTML.        
+https://github.com/Malvi1697/Hyperskill-TextBasedBrowser
