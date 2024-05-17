@@ -7,7 +7,7 @@ List of Python projects I've completed on Hyperskill so far.
 - [Bill Splitter](#bill-splitter)
 - [Last Pencil](#last-pencil)
 
-## Medium
+### Medium
 - [Currency Converter](#currency-converter)
 
 ### Hard
