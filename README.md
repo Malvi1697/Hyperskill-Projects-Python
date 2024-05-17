@@ -44,6 +44,8 @@ https://github.com/Malvi1697/Hyperskill-LastPencil-WIP
 The Currency Converter is a simple console program that calculates the amount of money you get by converting one currency to another.                                          
 https://github.com/Malvi1697/Hyperskill-CurrencyConverter
 
+![cconverter](https://github.com/Malvi1697/Hyperskill-Projects-Python/assets/129746042/b8ccb0f7-7b79-4d38-9092-a278f82ca7fe)
+
 ## Text Based Browser
 Learn the basics of HTTP and how to work with it in Python. You'll also gain an understanding of web scraping and how to organize data on a web page. You'll work with such Python libraries as requests, colorama, and beautifulsoup. You will become familiar with Python input and output. Also, study ways to parse HTML.        
 https://github.com/Malvi1697/Hyperskill-TextBasedBrowser
