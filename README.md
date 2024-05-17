@@ -28,6 +28,8 @@ https://github.com/Malvi1697/Hyperskill-Zookeeper
 Work on your Python basics such as loops, take a look at more advanced data structures like dictionaries and the random module, and learn how to handle occurring errors and exceptions.                     
 https://github.com/Malvi1697/Hyperskill-BillSplitter?tab=readme-ov-file
 
+![Billsplitter](https://github.com/Malvi1697/Hyperskill-Projects-Python/assets/129746042/36ef6c5f-6cee-4ade-9ac1-12fd3aa01f19)
+
 ## Last Pencil
 Learn how to build a simple but engaging game and practice the Python basics.                        
 https://github.com/Malvi1697/Hyperskill-LastPencil-WIP
