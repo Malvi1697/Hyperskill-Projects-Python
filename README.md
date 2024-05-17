@@ -34,6 +34,7 @@ https://github.com/Malvi1697/Hyperskill-BillSplitter
 Learn how to build a simple but engaging game and practice the Python basics.                        
 https://github.com/Malvi1697/Hyperskill-LastPencil-WIP
 
+![LastPencil](https://github.com/Malvi1697/Hyperskill-Projects-Python/assets/129746042/2cc4fd66-aaf0-46b4-90eb-0c170e26d57f)
 
 
 ## Text Based Browser
