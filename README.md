@@ -24,6 +24,8 @@ https://github.com/Malvi1697/Hyperskill-CurrencyConverter
 Help the local zoo take care of its animals by building a tool to keep an eye on them. Create your first program that works with your data.                   
 https://github.com/Malvi1697/Hyperskill-Zookeeper
 
+![zookeeper](https://github.com/Malvi1697/Hyperskill-Projects-Python/assets/129746042/5e4469f7-7ab6-4972-ab2f-395482338eda)
+
 ## Bill Splitter
 Work on your Python basics such as loops, take a look at more advanced data structures like dictionaries and the random module, and learn how to handle occurring errors and exceptions.                     
 https://github.com/Malvi1697/Hyperskill-BillSplitter
