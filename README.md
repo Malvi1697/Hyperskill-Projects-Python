@@ -19,6 +19,9 @@ List of Python projects I've completed on Hyperskill so far.
 A simple bot that will help you in your learning and make it more fun.                        
 https://github.com/Malvi1697/Hyperskill-SimpleChatBot
 
+![simple_chat_bot](https://github.com/Malvi1697/Hyperskill-Projects-Python/assets/129746042/251ffe73-1a8e-4159-a29b-c0067767d519)
+
+
 ## Zookeeper
 Help the local zoo take care of its animals by building a tool to keep an eye on them. Create your first program that works with your data.                   
 https://github.com/Malvi1697/Hyperskill-Zookeeper
