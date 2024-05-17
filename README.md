@@ -13,11 +13,11 @@ List of Python projects I've completed on Hyperskill so far.
 
 
 ## Simple Chat Bot
-A simple bot that will help you in your learning and make it more fun.
+A simple bot that will help you in your learning and make it more fun.                        
 https://github.com/Malvi1697/Hyperskill-SimpleChatBot
 
 ## Currency Converter
-The Currency Converter is a simple console program that calculates the amount of money you get by converting one currency to another.
+The Currency Converter is a simple console program that calculates the amount of money you get by converting one currency to another.                                          
 https://github.com/Malvi1697/Hyperskill-CurrencyConverter
 
 ## Zookeeper
