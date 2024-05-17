@@ -1,4 +1,4 @@
-# Hyperskill-Projects-Python
+# HyperSkill Python projects
 List of Python projects I've completed on Hyperskill so far.
 
  Easy
