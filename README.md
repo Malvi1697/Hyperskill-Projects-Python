@@ -10,7 +10,7 @@ List of easy and medium difficulty Python projects I've completed on Hyperskill 
  Medium
 - [Currency Converter](#currency-converter)
 
-Medium
+Challenging
 - [Password Hacker](https://github.com/Malvi1697/Hyperskill-Password-Hacker)
   <br/><br/>
   
