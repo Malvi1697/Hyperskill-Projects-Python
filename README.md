@@ -10,8 +10,8 @@ List of Python projects I've completed on Hyperskill so far.
  Medium
 - [Currency Converter](#currency-converter)
 
-  Hard
-  [Duskers](https://github.com/Malvi1697/Hyperskill-Duskers)
+ Hard
+- [Duskers](https://github.com/Malvi1697/Hyperskill-Duskers)
 
 Challenging
 - [Password Hacker](https://github.com/Malvi1697/Hyperskill-Password-Hacker)
