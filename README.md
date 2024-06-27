@@ -1,5 +1,5 @@
 # HyperSkill Python projects
-List of easy and medium difficulty Python projects I've completed on Hyperskill so far.
+List of Python projects I've completed on Hyperskill so far.
 
  Easy
 - [Simple Chat Bot](#simple-chat-bot)
